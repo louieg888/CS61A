@@ -1,0 +1,8 @@
+max(f(2, g(h(1, 5), 3)), 4)
+
+min(max(2, min(max(1, 5), 3)), 4)
+min(max(2, min(5, 3)), 4)
+min(max(2, 3), 4)
+min(3, 4)
+3
+
